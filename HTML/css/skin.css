@@ -1001,7 +1001,7 @@ body,
 }
 .header .navigation .nav-icon,
 .header .navigation .v-align-middle{
-	padding: 0 1.5rem !important;
+	padding: 0 .5rem !important;
 }
 .header .with-division ul{
 	border-left-color: rgba(0,0,0, 0.1);
