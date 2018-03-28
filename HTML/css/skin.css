@@ -814,7 +814,7 @@ body,
 	padding-bottom: 2rem;
 }
 .header .navigation > ul > li > a{
-	margin: 0 1.5rem;
+	margin-right: 1.5rem;
 	padding-left: 0;
 	padding-right: 0;
 	font-size: 1.1rem;
@@ -1310,7 +1310,7 @@ body,
 }
 .one-page-nav .side-navigation > ul > li > a{
 	padding: 0 4rem;
-	font-size: 3rem;
+	font-size: 1.7rem;
 }
 
 /* Side Nav Sub Menu Initial Colors & Padding */
